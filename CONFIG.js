@@ -1,7 +1,7 @@
 const CONFIGDATA = {
-  titleHeader: "Làm người yêu tớ nhé I Love You",
+  titleHeader: "Crush Có Thích Bạn Hay Không",
   descriptionHeader:
-    "Nếu cậu thoát ra và không trả lời thì có nghĩa là cậu đã ĐỒNG Ý rồi đấy ^^",
+    "Chắc Là Không Giòn đâu=)))",
   buttonYes: "Không",
   buttonNo: "Có :))",
   titleModar: "Mày Nghĩ Mày Có Được Nó À",
